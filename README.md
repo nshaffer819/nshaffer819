@@ -1,16 +1,27 @@
-## Hi there 👋
+# About me
 
-<!--
-**nshaffer819/nshaffer819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Nikki, welcome to my profile!
 
-Here are some ideas to get you started:
+### Currently...
+Brushing up on SQL and Python.
+(tips, advice & feedback welcome!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests and Goals
+After graduating, I became interested in health science and research. I plan to leverage my backrgound to develop skills at the intersection of health and tech. I look forward to challenging myself to learn all about data while completing interesting projects!
+
+### Education
+- Science lab/lecture courses (part time) & 8 week research project at SPC, Jan '25 - current.
+- BSBA in CIS from TESU, December '24.
+
+### Work Experience
+- Process Improvement / Sales Support Role at AC Golf Carts {Web design, data capture, digital marketing strategy, data entry, CRM, order processing}
+- Business Intern at Vivid Recording Studios {file management, audio recording software & hardware tools, audio processing & editing}
+- Various gig work / customer service roles.
+
+## Contact
+nshaffer819@gmail.com
+
+https://www.linkedin.com/in/nshaf/
+
+Thanks for checking out my profile and have a great day :)
+
